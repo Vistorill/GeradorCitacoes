@@ -64,7 +64,17 @@ const quotes = [
           "Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá.",
         author: "Ayrton Senna",
       },
-
+    {
+      quote:
+          "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.",
+        author: "- Alan Turing",
+    },
+    {
+      quote:
+          "It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.",
+        author: "- Gary Kildall",
+    },
+    
   ];
 
   const quoteBtn = document.querySelector("#quoteBtn");
